@@ -105,3 +105,10 @@ header nav a:hover {
 .carrossel-filmes {
   margin-top: 5px;
 }
+
+.rodape {
+  background-color:rgba(0, 0, 0, .50);
+
+  display: flex;
+  justify-content: center;
+}
